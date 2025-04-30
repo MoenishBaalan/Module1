@@ -18,7 +18,7 @@ Reg No:212223220057
 ```
 ## Output
 
-![image](https://github.com/user-attachments/assets/02051622-4acf-44f6-b91e-9b3cc0a861ad)
+![image](https://github.com/user-attachments/assets/6889084e-5e29-462f-b933-37410c64f81c)
 
 
 ## Result
